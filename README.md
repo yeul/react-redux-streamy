@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also used JSON server for mock backend (https://www.npmjs.com/package/json-server) and flv.js (https://www.npmjs.com/package/flv.js) for a quick video player setup.
 
 ## Available Scripts
 
